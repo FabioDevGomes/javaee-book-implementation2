@@ -1,0 +1,34 @@
+/.metadata/
+
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.metadata
+.sonarlint
+.recommenders
+bin/
+.settings/
+
+.~lock.Aulas.ods#
+.~lock.Controle  v6.2.ods#
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
